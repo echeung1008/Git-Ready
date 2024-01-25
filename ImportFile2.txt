@@ -1,0 +1,7 @@
+Name            Points for final exam           Points for homework
+Amy                      98                             100
+Olivia                   89                             92
+Emma                     87                             56
+Charlotte                81                             65
+Amelia                   23                             42
+
